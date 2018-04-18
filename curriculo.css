@@ -1,0 +1,25 @@
+h2{
+    background-color: #5599DD;
+    color: #DDDDDD;
+}
+.recuo{
+    text-indent: 50px;
+}
+#email{
+    text-decoration: underline;
+    font-style: italic;
+}
+body{
+    font-family: sans-serif;
+}
+#tamanho{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#cabecalho{
+    text-align: center;
+}
+h2{
+    padding: 5px;
+}
